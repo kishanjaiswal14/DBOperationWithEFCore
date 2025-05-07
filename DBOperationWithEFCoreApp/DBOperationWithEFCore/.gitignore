@@ -1,0 +1,71 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio working folder
+.vs/
+*.vsidx
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
+
+# Build logs
+*.log
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.swp
+*.ncb
+*.aps
+*.cache
+*.dbmdl
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# NPM packages (if using Angular or React front-end with your API)
+node_modules/
+dist/
+
+# Publish outputs
+publish/
+out/
+
+# Secrets (if used)
+secrets.json
+
+# Global JSON and user settings (optional)
+global.json
+*.DotSettings
+
+# macOS
+.DS_Store
+
+# Windows image thumbs
+Thumbs.db
+
+# Logs
+*.log
+
+# Others
+.env
