@@ -1,4 +1,5 @@
 using DBOperationWithEFCore.Data;
+using DBOperationWithEFCore.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AppDB")));
+
+builder.Services.AddScoped<ICurrencyService, CurrencyService>();
+builder.Services.AddScoped<IBookPriceService, BookPriceService>();
+builder.Services.AddScoped<IBookService, BookService>();
 
 var app = builder.Build();
 
