@@ -12,11 +12,12 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDBContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("AppDB")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AppDB")).LogTo(Console.WriteLine));
 
 builder.Services.AddScoped<ICurrencyService, CurrencyService>();
 builder.Services.AddScoped<IBookPriceService, BookPriceService>();
 builder.Services.AddScoped<IBookService, BookService>();
+
 
 var app = builder.Build();
 

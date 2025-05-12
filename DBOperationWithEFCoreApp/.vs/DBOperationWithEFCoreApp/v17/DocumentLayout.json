@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\bookpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\bookpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\bookpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\bookpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\bookpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\bookpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\dtos\\bookpricewithcurrencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\ibookpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\bookpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\bookpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\controller\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\controller\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|d:\\.net\\entity framwork core\\dboperationwithefcore\\dboperationwithefcoreapp\\dboperationwithefcore\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A561E341-564E-4642-B3CC-CD26CF16B761}|DBOperationWithEFCore\\DBOperationWithEFCore.csproj|solutionrelative:dboperationwithefcore\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,59 +94,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Controller\\CustomerController.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CustomerController.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Controller\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:53:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20250512065121_AddedOrderCustomerMasterData.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Migrations\\20250512065121_AddedOrderCustomerMasterData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:51:21.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\Order.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Order.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Data\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:48:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookService.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\BookService.cs",
               "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookService.cs",
               "RelativeToolTip": "DBOperationWithEFCore\\Services\\BookService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T02:21:53.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\IBookService.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\IBookService.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\IBookService.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Services\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:21:38.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\BookController.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Controller\\BookController.cs",
               "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\BookController.cs",
               "RelativeToolTip": "DBOperationWithEFCore\\Controller\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T02:21:16.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookPriceService.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookPriceService.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\BookPriceService.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookPriceService.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Services\\BookPriceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBgAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowJEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T06:20:32.792Z",
+              "WhenOpened": "2025-05-11T06:04:08.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "BookPriceController.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\BookPriceController.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Controller\\BookPriceController.cs",
@@ -159,15 +185,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BookPriceService.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookPriceService.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\BookPriceService.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\BookPriceService.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Services\\BookPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:24:27.151Z",
+              "WhenOpened": "2025-05-08T06:20:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Controller\\CurrencyController.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CurrencyController.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Controller\\CurrencyController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA/wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:18:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Program.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Program.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:01:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\IBookService.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\IBookService.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:21:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\Book.cs",
+              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Book.cs",
+              "RelativeToolTip": "DBOperationWithEFCore\\Data\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:32:25.551Z",
               "EditorCaption": ""
             },
             {
@@ -178,66 +256,14 @@
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\CurrencyService.cs",
               "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\CurrencyService.cs",
               "RelativeToolTip": "DBOperationWithEFCore\\Services\\CurrencyService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAtwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T17:20:27.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Program.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Program.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Program.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:01:37.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Book.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\Book.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Book.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Data\\Book.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:32:25.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Currency.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\Currency.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Currency.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Data\\Currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:43:34.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookPrice.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\BookPrice.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\BookPrice.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\BookPrice.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Data\\BookPrice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:44:11.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IBookPriceService.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\IBookPriceService.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\IBookPriceService.cs",
@@ -250,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "BookPriceWithCurrencyDto.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\DTOs\\BookPriceWithCurrencyDto.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\DTOs\\BookPriceWithCurrencyDto.cs",
@@ -263,33 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CurrencyController.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CurrencyController.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Controller\\CurrencyController.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Controller\\CurrencyController.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Controller\\CurrencyController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:18:09.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Language.cs",
-              "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Language.cs",
-              "RelativeDocumentMoniker": "DBOperationWithEFCore\\Data\\Language.cs",
-              "ToolTip": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Data\\Language.cs",
-              "RelativeToolTip": "DBOperationWithEFCore\\Data\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:48:47.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\appsettings.json",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\appsettings.json",
@@ -302,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICurrencyService.cs",
               "DocumentMoniker": "D:\\.Net\\Entity Framwork Core\\DBOperationWithEFCore\\DBOperationWithEFCoreApp\\DBOperationWithEFCore\\Services\\ICurrencyService.cs",
               "RelativeDocumentMoniker": "DBOperationWithEFCore\\Services\\ICurrencyService.cs",

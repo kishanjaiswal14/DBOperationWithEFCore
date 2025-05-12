@@ -4,6 +4,7 @@ using DBOperationWithEFCore.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DBOperationWithEFCore.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    partial class AppDBContextModelSnapshot : ModelSnapshot
+    [Migration("20250509112125_AddedAuthortableAndMasterData")]
+    partial class AddedAuthortableAndMasterData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -91,7 +94,7 @@ namespace DBOperationWithEFCore.Migrations
                             Id = 1,
                             AuthorId = 1,
                             CreatedOn = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Description = "Learn C# from basic",
+                            Description = "Learn C# from basics",
                             IsActive = true,
                             LanguageId = 1,
                             NoOfPages = 300,
@@ -102,7 +105,7 @@ namespace DBOperationWithEFCore.Migrations
                             Id = 2,
                             AuthorId = 1,
                             CreatedOn = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Description = "Web development with ASP.NET  Core",
+                            Description = "Web development with ASP.NET Core",
                             IsActive = true,
                             LanguageId = 2,
                             NoOfPages = 400,
@@ -113,7 +116,7 @@ namespace DBOperationWithEFCore.Migrations
                             Id = 3,
                             AuthorId = 1,
                             CreatedOn = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Description = "Master EFCore",
+                            Description = "Master EF Core",
                             IsActive = true,
                             LanguageId = 3,
                             NoOfPages = 350,
@@ -124,7 +127,7 @@ namespace DBOperationWithEFCore.Migrations
                             Id = 4,
                             AuthorId = 1,
                             CreatedOn = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Description = "Deep dive into  LINQ",
+                            Description = "Deep dive into LINQ",
                             IsActive = true,
                             LanguageId = 4,
                             NoOfPages = 280,
@@ -219,65 +222,26 @@ namespace DBOperationWithEFCore.Migrations
                         new
                         {
                             Id = 1,
-                            Description = "INR",
+                            Description = "Indian INR",
                             Title = "INR"
                         },
                         new
                         {
                             Id = 2,
-                            Description = "US ",
+                            Description = "US Dollar",
                             Title = "Dollar"
                         },
                         new
                         {
                             Id = 3,
-                            Description = "Euros",
+                            Description = "Euro",
                             Title = "Euro"
                         },
                         new
                         {
                             Id = 4,
-                            Description = "Dinars",
+                            Description = "Dinar",
                             Title = "Dinar"
-                        });
-                });
-
-            modelBuilder.Entity("DBOperationWithEFCore.Data.Customer", b =>
-                {
-                    b.Property<int>("CustomerId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CustomerId"));
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("CustomerId");
-
-                    b.ToTable("Customers");
-
-                    b.HasData(
-                        new
-                        {
-                            CustomerId = 1,
-                            Name = "John"
-                        },
-                        new
-                        {
-                            CustomerId = 2,
-                            Name = "Alice"
-                        },
-                        new
-                        {
-                            CustomerId = 3,
-                            Name = "Bob"
-                        },
-                        new
-                        {
-                            CustomerId = 4,
-                            Name = "Mark"
                         });
                 });
 
@@ -328,59 +292,12 @@ namespace DBOperationWithEFCore.Migrations
                         });
                 });
 
-            modelBuilder.Entity("DBOperationWithEFCore.Data.Order", b =>
-                {
-                    b.Property<int>("OrderId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
-
-                    b.Property<double>("Amount")
-                        .HasColumnType("float");
-
-                    b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
-                    b.HasKey("OrderId");
-
-                    b.HasIndex("CustomerId");
-
-                    b.ToTable("Orders");
-
-                    b.HasData(
-                        new
-                        {
-                            OrderId = 1,
-                            Amount = 1000.0,
-                            CustomerId = 1
-                        },
-                        new
-                        {
-                            OrderId = 2,
-                            Amount = 600.0,
-                            CustomerId = 2
-                        },
-                        new
-                        {
-                            OrderId = 3,
-                            Amount = 200.0,
-                            CustomerId = 1
-                        },
-                        new
-                        {
-                            OrderId = 4,
-                            Amount = 300.0,
-                            CustomerId = 2
-                        });
-                });
-
             modelBuilder.Entity("DBOperationWithEFCore.Data.Book", b =>
                 {
                     b.HasOne("DBOperationWithEFCore.Data.Author", "Author")
                         .WithMany("Books")
                         .HasForeignKey("AuthorId")
-                        .OnDelete(DeleteBehavior.NoAction)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("DBOperationWithEFCore.Data.Language", "Language")
@@ -413,17 +330,6 @@ namespace DBOperationWithEFCore.Migrations
                     b.Navigation("Currency");
                 });
 
-            modelBuilder.Entity("DBOperationWithEFCore.Data.Order", b =>
-                {
-                    b.HasOne("DBOperationWithEFCore.Data.Customer", "Customer")
-                        .WithMany("Orders")
-                        .HasForeignKey("CustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Customer");
-                });
-
             modelBuilder.Entity("DBOperationWithEFCore.Data.Author", b =>
                 {
                     b.Navigation("Books");
@@ -432,11 +338,6 @@ namespace DBOperationWithEFCore.Migrations
             modelBuilder.Entity("DBOperationWithEFCore.Data.Currency", b =>
                 {
                     b.Navigation("BookPrices");
-                });
-
-            modelBuilder.Entity("DBOperationWithEFCore.Data.Customer", b =>
-                {
-                    b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("DBOperationWithEFCore.Data.Language", b =>
